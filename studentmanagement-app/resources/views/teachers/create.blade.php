@@ -2,11 +2,11 @@
 
 @section('content')
 <div class="form-area">
-                <form method="POST" action="{{ route('students.store') }}">
+                <form method="POST" action="{{ route('teachers.store') }}">
                     @csrf
                     <div class="row">
                         <div class="col-md-6">
-                            <label>Student Name</label>
+                            <label>Teacher Name</label>
                             <input type="text" class="form-control" name="name">
                         </div>
                         <div class="col-md-6">
