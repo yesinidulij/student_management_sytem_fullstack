@@ -87,7 +87,7 @@ div.content {
   <a class="active" href="#home">Home</a>
   <a href="/students">Student</a>
   <a href="/teachers">Teacher</a>
-  <a href="#about">Courses</a>
+  <a href="/courses">Courses</a>
   <a href="#about">Enrollment</a>
   <a href="#about">Payment</a>
 
